@@ -5,14 +5,16 @@ const Button = ({
   textColor,
   borderColor,
   fullWidth,
+  url,
 }) => {
   return (
+    <a href={url}>
     <button
       className={`flex justify-center items-center gap-2 px-7 py-4 border font-montserrat text-lg leading-none
       ${
         backgroundColor
           ? `${backgroundColor} ${textColor} ${borderColor}`
-          : "bg-coral-red text-white border-coral-red"
+          : "bg-black text-white border-black"
       } rounded-full ${fullWidth && "w-full"}`}
     >
       {label}
@@ -25,6 +27,7 @@ const Button = ({
         />
       )}
     </button>
+    </a>
   );
 };
 

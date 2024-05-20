@@ -1,25 +1,25 @@
-import bigShoe1 from './big-shoe1.png'
+import bigShoe1 from './thumbnail-shoe2.svg'
 import bigShoe2 from './big-shoe2.png'
 import bigShoe3 from './big-shoe3.png'
 
 import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
 
-import footerLogo from './logo_royal.jpg'
-import headerLogo from './logo_royal.jpg'
+import footerLogo from './logo_royal.svg'
+import headerLogo from './logo_royal.svg'
 
 import offer from './offer.svg'
 
-import shoe4 from './shoe4.svg'
-import shoe5 from './shoe5.svg'
-import shoe6 from './shoe6.svg'
-import shoe7 from './shoe7.svg'
+import shoe4 from './1.jpeg'
+import shoe5 from './2.jpeg'
+import shoe6 from './3.jpeg'
+import shoe7 from './4.jpeg'
 import shoe8 from './shoe8.svg'
 
 import thumbnailBackground from './thumbnail-background.svg'
-import thumbnailShoe1 from './thumbnail-shoe1.svg'
-import thumbnailShoe2 from './thumbnail-shoe2.svg'
-import thumbnailShoe3 from './thumbnail-shoe3.svg'
+import thumbnailShoe1 from './2.png'
+import thumbnailShoe2 from './44.jpg'
+import thumbnailShoe3 from './55.jpg'
 
 export {
     bigShoe1,
