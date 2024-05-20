@@ -30,7 +30,7 @@ const SpecialOffer = () => {
           nothing short of exceptional.
         </p>
         <div className='mt-11 flex flex-wrap gap-4'>
-          <Button label='Shop now' iconURL={arrowRight} url="https://localhost:8000/us/store"/>
+          <Button label='Shop now' iconURL={arrowRight} url="localhost:8000/us/store"/>
           <Button
             label='Learn more'
             backgroundColor='bg-white'

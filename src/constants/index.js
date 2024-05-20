@@ -2,7 +2,7 @@ import { facebook, instagram, shieldTick, support, truckFast, twitter } from "..
 import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
 
 export const navLinks = [
-    { href: "localhost:7001", label: "Home" },
+    { href: "http://localhost:7001/a/orders?offset=0&limit=15", label: "Home" },
     { href: "#about-us", label: "About Us" },
     { href: "#products", label: "Products" },
     { href: "#contact-us", label: "Contact Us" },
@@ -102,7 +102,7 @@ export const footerLinks = [
             { name: "How it works", link: "/" },
             { name: "Privacy policy", link: "/" },
             { name: "Payment policy", link: "/" },
-            { name: "Admin", link: "https//:localhost/7001"}
+            { name: "Admin", link: "http://localhost:7001/a/orders?offset=0&limit=15" }
         ],
     },
     {
