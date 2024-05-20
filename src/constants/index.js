@@ -102,6 +102,7 @@ export const footerLinks = [
             { name: "How it works", link: "/" },
             { name: "Privacy policy", link: "/" },
             { name: "Payment policy", link: "/" },
+            { name: "Admin", link: "https//:localhost/7001"}
         ],
     },
     {
